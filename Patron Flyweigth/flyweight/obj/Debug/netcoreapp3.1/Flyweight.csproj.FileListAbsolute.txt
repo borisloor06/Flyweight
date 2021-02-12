@@ -1,0 +1,13 @@
+C:\Users\Boris Loor\source\repos\ConsoleApp1\flyweight\bin\Debug\netcoreapp3.1\Flyweight.exe
+C:\Users\Boris Loor\source\repos\ConsoleApp1\flyweight\bin\Debug\netcoreapp3.1\Flyweight.deps.json
+C:\Users\Boris Loor\source\repos\ConsoleApp1\flyweight\bin\Debug\netcoreapp3.1\Flyweight.runtimeconfig.json
+C:\Users\Boris Loor\source\repos\ConsoleApp1\flyweight\bin\Debug\netcoreapp3.1\Flyweight.runtimeconfig.dev.json
+C:\Users\Boris Loor\source\repos\ConsoleApp1\flyweight\bin\Debug\netcoreapp3.1\Flyweight.dll
+C:\Users\Boris Loor\source\repos\ConsoleApp1\flyweight\bin\Debug\netcoreapp3.1\Flyweight.pdb
+C:\Users\Boris Loor\source\repos\ConsoleApp1\flyweight\obj\Debug\netcoreapp3.1\Flyweight.csprojAssemblyReference.cache
+C:\Users\Boris Loor\source\repos\ConsoleApp1\flyweight\obj\Debug\netcoreapp3.1\Flyweight.AssemblyInfoInputs.cache
+C:\Users\Boris Loor\source\repos\ConsoleApp1\flyweight\obj\Debug\netcoreapp3.1\Flyweight.AssemblyInfo.cs
+C:\Users\Boris Loor\source\repos\ConsoleApp1\flyweight\obj\Debug\netcoreapp3.1\Flyweight.csproj.CoreCompileInputs.cache
+C:\Users\Boris Loor\source\repos\ConsoleApp1\flyweight\obj\Debug\netcoreapp3.1\Flyweight.dll
+C:\Users\Boris Loor\source\repos\ConsoleApp1\flyweight\obj\Debug\netcoreapp3.1\Flyweight.pdb
+C:\Users\Boris Loor\source\repos\ConsoleApp1\flyweight\obj\Debug\netcoreapp3.1\Flyweight.genruntimeconfig.cache

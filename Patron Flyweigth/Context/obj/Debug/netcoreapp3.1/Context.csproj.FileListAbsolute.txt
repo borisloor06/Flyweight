@@ -1,0 +1,13 @@
+C:\Users\Boris Loor\source\repos\ConsoleApp1\Context\bin\Debug\netcoreapp3.1\Context.exe
+C:\Users\Boris Loor\source\repos\ConsoleApp1\Context\bin\Debug\netcoreapp3.1\Context.deps.json
+C:\Users\Boris Loor\source\repos\ConsoleApp1\Context\bin\Debug\netcoreapp3.1\Context.runtimeconfig.json
+C:\Users\Boris Loor\source\repos\ConsoleApp1\Context\bin\Debug\netcoreapp3.1\Context.runtimeconfig.dev.json
+C:\Users\Boris Loor\source\repos\ConsoleApp1\Context\bin\Debug\netcoreapp3.1\Context.dll
+C:\Users\Boris Loor\source\repos\ConsoleApp1\Context\bin\Debug\netcoreapp3.1\Context.pdb
+C:\Users\Boris Loor\source\repos\ConsoleApp1\Context\obj\Debug\netcoreapp3.1\Context.AssemblyInfoInputs.cache
+C:\Users\Boris Loor\source\repos\ConsoleApp1\Context\obj\Debug\netcoreapp3.1\Context.AssemblyInfo.cs
+C:\Users\Boris Loor\source\repos\ConsoleApp1\Context\obj\Debug\netcoreapp3.1\Context.csproj.CoreCompileInputs.cache
+C:\Users\Boris Loor\source\repos\ConsoleApp1\Context\obj\Debug\netcoreapp3.1\Context.dll
+C:\Users\Boris Loor\source\repos\ConsoleApp1\Context\obj\Debug\netcoreapp3.1\Context.pdb
+C:\Users\Boris Loor\source\repos\ConsoleApp1\Context\obj\Debug\netcoreapp3.1\Context.genruntimeconfig.cache
+C:\Users\Boris Loor\source\repos\ConsoleApp1\Context\obj\Debug\netcoreapp3.1\Context.csprojAssemblyReference.cache
