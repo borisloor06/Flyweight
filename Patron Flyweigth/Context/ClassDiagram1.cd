@@ -1,2 +1,52 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<ClassDiagram /> 
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Comment CommentText="Cliente">
+    <Position X="2.025" Y="1.775" Height="0.342" Width="1.467" />
+  </Comment>
+  <Comment CommentText="Contexto">
+    <Position X="5.275" Y="0.5" Height="0.342" Width="1.467" />
+  </Comment>
+  <Comment CommentText="Flyweight">
+    <Position X="9.028" Y="0.5" Height="0.342" Width="1.467" />
+  </Comment>
+  <Comment CommentText="Flyweight Factory">
+    <Position X="7.243" Y="0.5" Height="0.342" Width="1.467" />
+  </Comment>
+  <Class Name="Context.Arbol">
+    <Position X="5.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Arbol.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Context.ArbolFactory">
+    <Position X="7.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAI=</HashCode>
+      <FileName>ArbolFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Context.EstadoIntrinseco">
+    <Position X="9" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAgAAAAAAAAACAAAAAAAAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>EstadoIntrinseco.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Context.Program">
+    <Position X="2" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Context.Flyweight" Collapsed="true">
+    <Position X="2" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Flyweight.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

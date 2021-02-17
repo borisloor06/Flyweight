@@ -1,5 +1,6 @@
 ﻿namespace AutoFlyweight
 {
+    //implemento una clase para almacenar los datos intrisecos en base a un modelo especifico de auto
     internal class SparkGT : Modelo
     {
         public SparkGT()

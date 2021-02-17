@@ -4,6 +4,7 @@ using System.Text;
 
 namespace AutoFlyweight
 {
+    //clase abstracta para implementar la parte intrinseca
     abstract class Modelo
     {
         protected string color;

@@ -6,10 +6,12 @@ namespace AutoFlyweight
 {
     class Auto
     {
+        //Parte Extrinseca
         string matricula;
         string IDTitular;
         Modelo modelo;
 
+        //Constructor del Auto
         public Auto(string mod, string matricula, string IDtitular)
         {
             this.modelo = AutoFactory.GetAuto(mod);

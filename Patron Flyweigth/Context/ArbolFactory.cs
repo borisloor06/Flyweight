@@ -9,6 +9,7 @@ namespace Context
     {
         //declaramos un diccionario
         private static Dictionary<string, Flyweight> _flyweight = new Dictionary<string, Flyweight>();
+
         //creamos un metodo que nos devuelve el estado intrinseco
         public static Flyweight GetFlyweight(string raiz)
         {

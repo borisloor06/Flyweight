@@ -11,7 +11,7 @@ namespace Auto
             int sails, dmaxs, sparks;
 
             List<Auto> autos = new List<Auto>();
-            for (sails = 0; sails < 10000000; sails++)
+            for (sails = 0; sails < 1000000; sails++)
             {
                 Auto sail = new Auto("Sail Sedan", "MTR1234", "123456789");
                 autos.Add(sail);
@@ -23,7 +23,7 @@ namespace Auto
                 Auto dmax = new Auto("D-Max", "MBA2134", "987654321");
                 autos.Add(dmax);
             }
-            for (sparks = 0; sparks < 30000000; sparks++)
+            for (sparks = 0; sparks < 3000000; sparks++)
             {
                 Auto spark = new Auto("Spark GT", "HBO4321", "918273645");
                 autos.Add(spark);

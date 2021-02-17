@@ -11,3 +11,16 @@ C:\Users\Boris Loor\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1
 C:\Users\Boris Loor\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Auto.dll
 C:\Users\Boris Loor\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Auto.pdb
 C:\Users\Boris Loor\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Auto.genruntimeconfig.cache
+C:\Users\Boris Loor\source\repos\Patron Flyweigth\ConsoleApp1\bin\Debug\netcoreapp3.1\Auto.exe
+C:\Users\Boris Loor\source\repos\Patron Flyweigth\ConsoleApp1\bin\Debug\netcoreapp3.1\Auto.deps.json
+C:\Users\Boris Loor\source\repos\Patron Flyweigth\ConsoleApp1\bin\Debug\netcoreapp3.1\Auto.runtimeconfig.json
+C:\Users\Boris Loor\source\repos\Patron Flyweigth\ConsoleApp1\bin\Debug\netcoreapp3.1\Auto.runtimeconfig.dev.json
+C:\Users\Boris Loor\source\repos\Patron Flyweigth\ConsoleApp1\bin\Debug\netcoreapp3.1\Auto.dll
+C:\Users\Boris Loor\source\repos\Patron Flyweigth\ConsoleApp1\bin\Debug\netcoreapp3.1\Auto.pdb
+C:\Users\Boris Loor\source\repos\Patron Flyweigth\ConsoleApp1\obj\Debug\netcoreapp3.1\Auto.csprojAssemblyReference.cache
+C:\Users\Boris Loor\source\repos\Patron Flyweigth\ConsoleApp1\obj\Debug\netcoreapp3.1\Auto.AssemblyInfoInputs.cache
+C:\Users\Boris Loor\source\repos\Patron Flyweigth\ConsoleApp1\obj\Debug\netcoreapp3.1\Auto.AssemblyInfo.cs
+C:\Users\Boris Loor\source\repos\Patron Flyweigth\ConsoleApp1\obj\Debug\netcoreapp3.1\Auto.csproj.CoreCompileInputs.cache
+C:\Users\Boris Loor\source\repos\Patron Flyweigth\ConsoleApp1\obj\Debug\netcoreapp3.1\Auto.dll
+C:\Users\Boris Loor\source\repos\Patron Flyweigth\ConsoleApp1\obj\Debug\netcoreapp3.1\Auto.pdb
+C:\Users\Boris Loor\source\repos\Patron Flyweigth\ConsoleApp1\obj\Debug\netcoreapp3.1\Auto.genruntimeconfig.cache

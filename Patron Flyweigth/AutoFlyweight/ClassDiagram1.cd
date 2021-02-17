@@ -1,2 +1,65 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<ClassDiagram /> 
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Comment CommentText="Flyweight">
+    <Position X="6.017" Y="0.758" Height="0.35" Width="1.492" />
+  </Comment>
+  <Comment CommentText="Flyweight Factory">
+    <Position X="1.267" Y="2.267" Height="0.35" Width="1.492" />
+  </Comment>
+  <Comment CommentText="Cliente">
+    <Position X="1.258" Y="0.867" Height="0.35" Width="1.492" />
+  </Comment>
+  <Comment CommentText="Contexto">
+    <Position X="1.242" Y="3.6" Height="0.35" Width="1.492" />
+  </Comment>
+  <Class Name="AutoFlyweight.Auto" Collapsed="true">
+    <Position X="1.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAAQAAAAAAAAIAAAAAAAAAAAAAAAAAAAIAAA=</HashCode>
+      <FileName>Auto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AutoFlyweight.AutoFactory" Collapsed="true">
+    <Position X="1.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AutoFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AutoFlyweight.DMax" Collapsed="true">
+    <Position X="3.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>DMax.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AutoFlyweight.Modelo" Collapsed="true">
+    <Position X="6" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAAAAAAAAAAAAAAAAEECAAAAAAAAIAAA=</HashCode>
+      <FileName>Modelo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AutoFlyweight.Program" Collapsed="true">
+    <Position X="1.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AutoFlyweight.SailSedan" Collapsed="true">
+    <Position X="6" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>SailSedan.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AutoFlyweight.SparkGT" Collapsed="true">
+    <Position X="8.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>SparkGT.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

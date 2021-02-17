@@ -11,3 +11,16 @@ C:\Users\Boris Loor\source\repos\ConsoleApp1\flyweight\obj\Debug\netcoreapp3.1\B
 C:\Users\Boris Loor\source\repos\ConsoleApp1\flyweight\obj\Debug\netcoreapp3.1\Bosque.dll
 C:\Users\Boris Loor\source\repos\ConsoleApp1\flyweight\obj\Debug\netcoreapp3.1\Bosque.pdb
 C:\Users\Boris Loor\source\repos\ConsoleApp1\flyweight\obj\Debug\netcoreapp3.1\Bosque.genruntimeconfig.cache
+C:\Users\Boris Loor\source\repos\Patron Flyweigth\flyweight\bin\Debug\netcoreapp3.1\Bosque.exe
+C:\Users\Boris Loor\source\repos\Patron Flyweigth\flyweight\bin\Debug\netcoreapp3.1\Bosque.deps.json
+C:\Users\Boris Loor\source\repos\Patron Flyweigth\flyweight\bin\Debug\netcoreapp3.1\Bosque.runtimeconfig.json
+C:\Users\Boris Loor\source\repos\Patron Flyweigth\flyweight\bin\Debug\netcoreapp3.1\Bosque.runtimeconfig.dev.json
+C:\Users\Boris Loor\source\repos\Patron Flyweigth\flyweight\bin\Debug\netcoreapp3.1\Bosque.dll
+C:\Users\Boris Loor\source\repos\Patron Flyweigth\flyweight\bin\Debug\netcoreapp3.1\Bosque.pdb
+C:\Users\Boris Loor\source\repos\Patron Flyweigth\flyweight\obj\Debug\netcoreapp3.1\Bosque.csprojAssemblyReference.cache
+C:\Users\Boris Loor\source\repos\Patron Flyweigth\flyweight\obj\Debug\netcoreapp3.1\Bosque.AssemblyInfoInputs.cache
+C:\Users\Boris Loor\source\repos\Patron Flyweigth\flyweight\obj\Debug\netcoreapp3.1\Bosque.AssemblyInfo.cs
+C:\Users\Boris Loor\source\repos\Patron Flyweigth\flyweight\obj\Debug\netcoreapp3.1\Bosque.csproj.CoreCompileInputs.cache
+C:\Users\Boris Loor\source\repos\Patron Flyweigth\flyweight\obj\Debug\netcoreapp3.1\Bosque.dll
+C:\Users\Boris Loor\source\repos\Patron Flyweigth\flyweight\obj\Debug\netcoreapp3.1\Bosque.pdb
+C:\Users\Boris Loor\source\repos\Patron Flyweigth\flyweight\obj\Debug\netcoreapp3.1\Bosque.genruntimeconfig.cache

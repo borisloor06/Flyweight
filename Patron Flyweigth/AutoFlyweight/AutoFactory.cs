@@ -6,18 +6,19 @@ namespace AutoFlyweight
 {
     class AutoFactory
     {
-        private static Dictionary<string, Modelo> _autos =
-      new Dictionary<string, Modelo>();
-       
+        //declaro un diccionario
+        private static Dictionary<string, Modelo> _autos = new Dictionary<string, Modelo>();
+        
         public static Modelo GetAuto(string modelo)
         {
                        
             Modelo auto = null;
-            
+            //compruebo que exista el modelo buscado    
             if (_autos.ContainsKey(modelo))
             {
                 auto = _autos[modelo];
             }
+            // si no existe la agrego al diccionario
             else
             {
                 if(modelo.Equals("Spark GT"))
@@ -33,7 +34,7 @@ namespace AutoFlyweight
                 _autos.Add(modelo, auto);
             }
             
-            
+            //finalmente la retorno
             return auto;
         }
         
